@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Call of Duty",
+        "price": 40000,
+        "description": "Juego de guerras",
+        "category": "Acción",
+        "image": "",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "price": 50000,
+        "description": "Juego de aventura en un mundo abierto",
+        "category": "Aventura",
+        "image": "",
+        "rating": {
+            "rate": 4.8,
+            "count": 300
+        }
+    },
+    {
+        "id": 3,
+        "title": "Minecraft",
+        "price": 30000,
+        "description": "Juego de construcción y supervivencia",
+        "category": "Sandbox",
+        "image": "",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Fortnite",
+        "price": 0,
+        "description": "Juego de batalla real",
+        "category": "Acción",
+        "image": "",
+        "rating": {
+            "rate": 4.1,
+            "count": 1000
+        }
+    },
+    {
+        "id": 5,
+        "title": "Red Dead Redemption 2",
+        "price": 60000,
+        "description": "Juego de acción y aventura en el lejano oeste",
+        "category": "Acción",
+        "image": "",
+        "rating": {
+            "rate": 4.9,
+            "count": 250
+        }
+    },
+    {
+        "id": 6,
+        "title": "Super Mario Odyssey",
+        "price": 45000,
+        "description": "Juego de plataformas en 3D",
+        "category": "Plataformas",
+        "image": "",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    },
+    {
+        "id": 7,
+        "title": "The Witcher 3: Wild Hunt",
+        "price": 35000,
+        "description": "Juego de rol y aventura en un mundo abierto",
+        "category": "RPG",
+        "image": "",
+        "rating": {
+            "rate": 4.9,
+            "count": 600
+        }
+    },
+    {
+        "id": 8,
+        "title": "Cyberpunk 2077",
+        "price": 55000,
+        "description": "Juego de rol y acción en un mundo futurista",
+        "category": "RPG",
+        "image": "",
+        "rating": {
+            "rate": 3.5,
+            "count": 450
+        }
+    },
+    {
+        "id": 9,
+        "title": "Animal Crossing: New Horizons",
+        "price": 40000,
+        "description": "Juego de simulación de vida",
+        "category": "Simulación",
+        "image": "",
+        "rating": {
+            "rate": 4.7,
+            "count": 550
+        }
+    },
+    {
+        "id": 10,
+        "title": "Among Us",
+        "price": 5000,
+        "description": "Juego de deducción social",
+        "category": "Estrategia",
+        "image": "",
+        "rating": {
+            "rate": 4.3,
+            "count": 800
+        }
+    }
+]
